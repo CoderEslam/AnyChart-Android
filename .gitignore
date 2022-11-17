@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+
+# Project exclude paths
+/.gradle/
+/sample/build/
+/sample/build/intermediates/javac/debug/classes/
